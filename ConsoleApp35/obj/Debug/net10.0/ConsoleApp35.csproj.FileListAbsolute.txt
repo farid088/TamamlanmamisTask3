@@ -1,0 +1,4 @@
+C:\Users\faridin\source\repos\ConsoleApp35\ConsoleApp35\obj\Debug\net10.0\ConsoleApp35.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faridin\source\repos\ConsoleApp35\ConsoleApp35\obj\Debug\net10.0\ConsoleApp35.AssemblyInfoInputs.cache
+C:\Users\faridin\source\repos\ConsoleApp35\ConsoleApp35\obj\Debug\net10.0\ConsoleApp35.AssemblyInfo.cs
+C:\Users\faridin\source\repos\ConsoleApp35\ConsoleApp35\obj\Debug\net10.0\ConsoleApp35.csproj.CoreCompileInputs.cache
