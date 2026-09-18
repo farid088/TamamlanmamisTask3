@@ -4,5 +4,6 @@
     Science, 
     History,
     Novel,
-    Other
+    Romantic,
+    Fiction
 }

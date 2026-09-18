@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\faridin\\source\\repos\\ConsoleApp35\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA62A0B0-70EB-47AC-8E33-08ACA2E20CE9}|ConsoleApp35\\ConsoleApp35.csproj|c:\\users\\faridin\\source\\repos\\consoleapp35\\consoleapp35\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA62A0B0-70EB-47AC-8E33-08ACA2E20CE9}|ConsoleApp35\\ConsoleApp35.csproj|solutionrelative:consoleapp35\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4BA06306-7A07-F4CD-A814-403D84C055F4}|ConsoleApp35\\ConsoleApp35.csproj|c:\\users\\faridin\\source\\repos\\consoleapp35\\consoleapp35\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA06306-7A07-F4CD-A814-403D84C055F4}|ConsoleApp35\\ConsoleApp35.csproj|solutionrelative:consoleapp35\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA62A0B0-70EB-47AC-8E33-08ACA2E20CE9}|ConsoleApp35\\ConsoleApp35.csproj|c:\\users\\faridin\\source\\repos\\consoleapp35\\consoleapp35\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA62A0B0-70EB-47AC-8E33-08ACA2E20CE9}|ConsoleApp35\\ConsoleApp35.csproj|solutionrelative:consoleapp35\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4BA06306-7A07-F4CD-A814-403D84C055F4}|ConsoleApp35\\ConsoleApp35.csproj|c:\\users\\faridin\\source\\repos\\consoleapp35\\consoleapp35\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA06306-7A07-F4CD-A814-403D84C055F4}|ConsoleApp35\\ConsoleApp35.csproj|solutionrelative:consoleapp35\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA62A0B0-70EB-47AC-8E33-08ACA2E20CE9}|ConsoleApp35\\ConsoleApp35.csproj|c:\\users\\faridin\\source\\repos\\consoleapp35\\consoleapp35\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA62A0B0-70EB-47AC-8E33-08ACA2E20CE9}|ConsoleApp35\\ConsoleApp35.csproj|solutionrelative:consoleapp35\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4BA06306-7A07-F4CD-A814-403D84C055F4}|ConsoleApp35\\ConsoleApp35.csproj|c:\\users\\faridin\\source\\repos\\consoleapp35\\consoleapp35\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA06306-7A07-F4CD-A814-403D84C055F4}|ConsoleApp35\\ConsoleApp35.csproj|solutionrelative:consoleapp35\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA62A0B0-70EB-47AC-8E33-08ACA2E20CE9}|ConsoleApp35\\ConsoleApp35.csproj|c:\\users\\faridin\\source\\repos\\consoleapp35\\consoleapp35\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA62A0B0-70EB-47AC-8E33-08ACA2E20CE9}|ConsoleApp35\\ConsoleApp35.csproj|solutionrelative:consoleapp35\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4BA06306-7A07-F4CD-A814-403D84C055F4}|ConsoleApp35\\ConsoleApp35.csproj|c:\\users\\faridin\\source\\repos\\consoleapp35\\consoleapp35\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA06306-7A07-F4CD-A814-403D84C055F4}|ConsoleApp35\\ConsoleApp35.csproj|solutionrelative:consoleapp35\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA62A0B0-70EB-47AC-8E33-08ACA2E20CE9}|ConsoleApp35\\ConsoleApp35.csproj|c:\\users\\faridin\\source\\repos\\consoleapp35\\consoleapp35\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA62A0B0-70EB-47AC-8E33-08ACA2E20CE9}|ConsoleApp35\\ConsoleApp35.csproj|solutionrelative:consoleapp35\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4BA06306-7A07-F4CD-A814-403D84C055F4}|ConsoleApp35\\ConsoleApp35.csproj|c:\\users\\faridin\\source\\repos\\consoleapp35\\consoleapp35\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA06306-7A07-F4CD-A814-403D84C055F4}|ConsoleApp35\\ConsoleApp35.csproj|solutionrelative:consoleapp35\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +30,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\faridin\\source\\repos\\ConsoleApp35\\ConsoleApp35\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp35\\Program.cs",
+              "ToolTip": "C:\\Users\\faridin\\source\\repos\\ConsoleApp35\\ConsoleApp35\\Program.cs",
+              "RelativeToolTip": "ConsoleApp35\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T16:50:26.355Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
@@ -39,41 +53,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Exceptions.cs",
-              "DocumentMoniker": "C:\\Users\\faridin\\source\\repos\\ConsoleApp35\\ConsoleApp35\\Exceptions.cs",
-              "RelativeDocumentMoniker": "ConsoleApp35\\Exceptions.cs",
-              "ToolTip": "C:\\Users\\faridin\\source\\repos\\ConsoleApp35\\ConsoleApp35\\Exceptions.cs",
-              "RelativeToolTip": "ConsoleApp35\\Exceptions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-16T17:20:14.667Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "BookService.cs",
               "DocumentMoniker": "C:\\Users\\faridin\\source\\repos\\ConsoleApp35\\ConsoleApp35\\BookService.cs",
               "RelativeDocumentMoniker": "ConsoleApp35\\BookService.cs",
               "ToolTip": "C:\\Users\\faridin\\source\\repos\\ConsoleApp35\\ConsoleApp35\\BookService.cs",
               "RelativeToolTip": "ConsoleApp35\\BookService.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAzwBwAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwBkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-16T17:09:44.291Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-16T17:09:44.291Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\faridin\\source\\repos\\ConsoleApp35\\ConsoleApp35\\Book.cs",
               "RelativeDocumentMoniker": "ConsoleApp35\\Book.cs",
               "ToolTip": "C:\\Users\\faridin\\source\\repos\\ConsoleApp35\\ConsoleApp35\\Book.cs",
               "RelativeToolTip": "ConsoleApp35\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-16T17:06:05.886Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-16T17:06:05.886Z"
             },
             {
               "$type": "Document",
@@ -83,23 +82,21 @@
               "RelativeDocumentMoniker": "ConsoleApp35\\Genre.cs",
               "ToolTip": "C:\\Users\\faridin\\source\\repos\\ConsoleApp35\\ConsoleApp35\\Genre.cs",
               "RelativeToolTip": "ConsoleApp35\\Genre.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-16T17:08:43.61Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-16T17:08:43.61Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\faridin\\source\\repos\\ConsoleApp35\\ConsoleApp35\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp35\\Program.cs",
-              "ToolTip": "C:\\Users\\faridin\\source\\repos\\ConsoleApp35\\ConsoleApp35\\Program.cs",
-              "RelativeToolTip": "ConsoleApp35\\Program.cs",
+              "DocumentIndex": 2,
+              "Title": "Exceptions.cs",
+              "DocumentMoniker": "C:\\Users\\faridin\\source\\repos\\ConsoleApp35\\ConsoleApp35\\Exceptions.cs",
+              "RelativeDocumentMoniker": "ConsoleApp35\\Exceptions.cs",
+              "ToolTip": "C:\\Users\\faridin\\source\\repos\\ConsoleApp35\\ConsoleApp35\\Exceptions.cs",
+              "RelativeToolTip": "ConsoleApp35\\Exceptions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-16T16:50:26.355Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-16T17:20:14.667Z"
             }
           ]
         }

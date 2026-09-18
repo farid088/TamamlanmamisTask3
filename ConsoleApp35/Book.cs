@@ -21,4 +21,27 @@
     public double Price { get; set; }
     public Genre Genre { get; set; }
     public DateTime CreatedAt { get; set; } = DateTime.Now;
+
+  
+}
+public static class BookExtensions
+{
+    public static string GetShortInfo(this Book book)
+    {
+        return $"{book.Title} - {book.Author} - {book.Price} AZN";
+    }
+    public static bool IsInStock(this Book book)
+    {
+        return book.StockCount > 0;
+    }
+    public static int ApplyDiscount(this Book book, double Percent)
+    {
+        if (Percent < 0 || Percent > 100)
+        {
+            throw new ArgumentOutOfRangeException(nameof(Percent), " percentage must be between 0 and 100.");
+        }
+        double discountAmount = book.Price * (Percent / 100);
+        book.Price -= discountAmount;
+        return (int)book.Price;
+    }
 }

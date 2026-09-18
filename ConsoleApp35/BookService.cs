@@ -23,6 +23,7 @@ public class BookService : IBookService
         {
            throw new ConflictException("A book with the same title and author already exists.");
         }
+        books.Add(book);
     }
     public void GetById(int id)
     {
@@ -104,6 +105,7 @@ public class BookService : IBookService
         }
     }
      public static List<Book> books = new List<Book>();
+
    
 
-}
+} 
